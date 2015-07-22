@@ -1,4 +1,4 @@
-# techcircle_rekognition
+# pepper_rekognition
 
 このリポジトリは新規プロジェクトに対して以下のライブラリをインポートしただけのものです。
 
